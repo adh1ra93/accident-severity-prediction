@@ -1,0 +1,8 @@
+nbconvert
+papermill
+jupyter
+pandas
+scikit-learn
+matplotlib
+seaborn
+imbalanced-learn
